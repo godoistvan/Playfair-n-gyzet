@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\playgui\bin\Debug\playgui.exe.config
+C:\Users\User\source\repos\playgui\bin\Debug\playgui.exe
+C:\Users\User\source\repos\playgui\bin\Debug\playgui.pdb
+C:\Users\User\source\repos\playgui\obj\Debug\playgui.csprojAssemblyReference.cache
+C:\Users\User\source\repos\playgui\obj\Debug\playgui.Form1.resources
+C:\Users\User\source\repos\playgui\obj\Debug\playgui.Properties.Resources.resources
+C:\Users\User\source\repos\playgui\obj\Debug\playgui.csproj.GenerateResource.cache
+C:\Users\User\source\repos\playgui\obj\Debug\playgui.exe
+C:\Users\User\source\repos\playgui\obj\Debug\playgui.pdb
