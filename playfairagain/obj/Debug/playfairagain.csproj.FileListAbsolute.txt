@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\playfairagain\bin\Debug\playfairagain.exe.config
+C:\Users\User\source\repos\playfairagain\bin\Debug\playfairagain.exe
+C:\Users\User\source\repos\playfairagain\bin\Debug\playfairagain.pdb
+C:\Users\User\source\repos\playfairagain\obj\Debug\playfairagain.csprojAssemblyReference.cache
+C:\Users\User\source\repos\playfairagain\obj\Debug\playfairagain.exe
+C:\Users\User\source\repos\playfairagain\obj\Debug\playfairagain.pdb
